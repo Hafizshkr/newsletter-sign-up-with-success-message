@@ -22,7 +22,7 @@ This is a solution to the [Newsletter sign-up form with success message challeng
 ### Links
 
 - Solution URL: [Github](https://github.com/Hafizshkr/newsletter-sign-up-with-success-message)
-- Live Site URL: [Vercel](https://your-live-site-url.com](https://newsletter-sign-up-with-success-message-rho.vercel.app/)
+- Live Site URL: [Vercel][(https://newsletter-sign-up-with-success-message-rho.vercel.app)
 
 
 
