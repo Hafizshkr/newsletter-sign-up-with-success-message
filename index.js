@@ -50,18 +50,3 @@ submitBtn.addEventListener("click", function(event){
      
 })
 
-// dynamicEmail.textContent = inputBox.value;
-// // successpage.html
-// let paragraph = document.getElementById("paragraph");
-//     if (email) {
-//         dynamicEmail.textContent = decodeURIComponent(email);
-//         paragraph.innerHTML = `A confirmation email has been sent to <strong>${email}</strong>.
-//         please open it and click the button inside to confirm your subscription.`
-//     }
-//     else {
-//         dynamicEmail.textContent = "email not provided";
-//         console.log("email didnt pass")
-//     }
-
-/* <p>A confirmation email has been sent to <span class="dynamic-email"></span>.
-            Please open it and click the button inside to confirm your subscription.</p> */
